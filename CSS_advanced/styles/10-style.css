@@ -1,0 +1,11 @@
+@import url("9-style.css");
+
+/* 10. Section title alignment */
+
+:root {
+  --section-header-align: center;
+}
+
+.section-header {
+  text-align: var(--section-header-align);
+}

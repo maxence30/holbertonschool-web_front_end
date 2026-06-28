@@ -1,0 +1,8 @@
+@import url("6-style.css");
+
+/* 7. Google fonts update */
+
+:root {
+  --font-family-base: "Open Sans", Helvetica, Arial, sans-serif;
+  --font-family-title: "Raleway", "Open Sans", Helvetica, Arial, sans-serif;
+}

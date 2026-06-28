@@ -1,0 +1,7 @@
+@import url("8-style.css");
+
+/* 9. Remove link decoration */
+
+a {
+  text-decoration: none;
+}
